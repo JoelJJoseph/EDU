@@ -1,2 +1,2 @@
 # EDU
-this is an educational website for students and helps in understanding biology and chemistry using AR.
+this is an educational website create by joel to help students in understanding biology and chemistry
