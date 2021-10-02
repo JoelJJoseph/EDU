@@ -18,3 +18,4 @@ During this project, I learned a lot about web technologies and hosting a site w
 
 ## What's next for Edu.Ar 
 As for Edu.Ar, our team would like to add more subjects such as physics, calculus, history, and more. It is a great site for students to use and learn from.
+
